@@ -1,7 +1,0 @@
-*
-!src/
-!src/main.cpp
-!schematics/
-!schematics/pwm_controller_schematic.pdf
-!README.md
-!.gitignore
